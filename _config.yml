@@ -1,3 +1,9 @@
 title: "Klest Dedja"
 description: "AI Research Scientist | Explainable AI | Forecasting | DevOPS in progress"
 theme: jekyll-theme-cayman
+url: "https://klestdedja.github.io"
+
+nav:
+  - { title: "about", url: "/" }
+  - { title: "cv", url: "/cv" }
+  - { title: "repositories", url: "/repositories" }
