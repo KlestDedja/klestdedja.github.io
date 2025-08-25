@@ -32,13 +32,6 @@ The combination of deep theoretical expertise in AI related fields, paired with 
 - To be released to the public once the related paper is accepted: [EDGEHOG](https://github.com/Klest94/directionality), a tool for **automatic directionality dispersion** estimate, using some old school **Computer vision** approach  
 
 
-## Curriculum vitae
-
-- Download as PDF: [CV-KlestDedja.pdf](/assets/CV-KlestDedja.pdf)
-
-<iframe src="/assets/CV-KlestDedja.pdf" width="100%" height="900" style="border:0;"></iframe>
-
-
 ## 🔬 Research
 - [Google Scholar](https://scholar.google.com/citations?user=SWJ2Y2cAAAAJ)  
 - [PhD Dissertation](https://lirias.kuleuven.be/retrieve/dff3deaa-efd3-45e2-833c-e6db47d88434)  
