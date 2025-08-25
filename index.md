@@ -11,20 +11,29 @@ The combination of deep theoretical expertise in AI related fields, paired with 
   <img src="images/skills-chart-profile.png" alt="Skills Map" />
 </p>
 
-🏭 Industry experience:
+### 🏭 Industry experience:
 
 - I have worked at **[Predikt](https://predikt.ai/)**, a young, innovative start-up dedicated to advancing **time-series forecasting** for CFOs and finance leaders. Predikt is developing AI-driven tools that bring confidence and trust to forecasting processes, helping CFOs and finance leaders make more informed, data-backed decisions.
 
----
+### 🔭 Current Projects:
+
+- I am maintaining a project from my PhD years, namely **[BELLATREX](https://github.com/klest94/bellatrex)**: an open-access [package](https://pypi.org/project/bellatrex/) designed to support adoption and transparency of **Random Forest** models for several prediction tasks: binary classification, regression, survival-analysis, multi-lablel classification, and multi-target regression.
+
+  Do you like BELLATREX? I am looking for collaborators to make BELLATREX better! If you have fresh ideas, feature requests, or are interested in contributing to new functionalities, I’d love to connect 😊.
+   Keep an eye on the repository and don't forget to add a ⭐️
+
+- Another project of my PhD years involves extending [SHAP](https://shap.readthedocs.io/en/latest/) explanatory toolbox to time-to-event data, with a focus on explaining feature importance within a given interval of time. This work is a fast and lean alternative to [SurvSHAP(t)](https://github.com/MI2DataLab/survshap).
+
+- To be released to the public once the related paper is accepted: [EDGEHOG](https://github.com/Klest94/directionality), a tool for **automatic directionality dispersion** estimate, using some old school **Computer vision** approach  
+
 
 ## 🔬 Research
 - [Google Scholar](https://scholar.google.com/citations?user=SWJ2Y2cAAAAJ)  
 - [PhD Dissertation](https://lirias.kuleuven.be/retrieve/dff3deaa-efd3-45e2-833c-e6db47d88434)  
-- [Active Learning + Survival Analysis](https://github.com/klestdedja/AL-SA-paper-material)
 
 ## ⚙️ Projects
 - [**Bellatrex**](https://github.com/klestdedja/bellatrex) → [pip package](https://pypi.org/project/bellatrex/)  
-- SHAP extensions for survival data  
+- [SHAP extension](https://github.com/klestdedja/timeSHAP) for survival data
 - [**EDGEHOG**](https://github.com/klestdedja/directionality)  
 
 ## 📫 Contact
