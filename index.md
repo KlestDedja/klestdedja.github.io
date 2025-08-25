@@ -36,7 +36,7 @@ The combination of deep theoretical expertise in AI related fields, paired with 
 
 - Download as PDF: [CV-KlestDedja.pdf](/assets/CV-KlestDedja.pdf)
 
-- <iframe src="/assets/CV-KlestDedja.pdf" width="100%" height="900" style="border:0;"></iframe>
+<iframe src="/assets/CV-KlestDedja.pdf" width="100%" height="900" style="border:0;"></iframe>
 
 
 ## 🔬 Research
