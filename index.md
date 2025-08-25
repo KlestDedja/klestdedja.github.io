@@ -13,7 +13,7 @@ You can find my PhD dissertation [here](https://lirias.kuleuven.be/retrieve/dff3
 The combination of deep theoretical expertise in AI related fields, paired with 7+ years of programming has made me a strong and curious Data Scientist (assuming we agree on the meaning of this term).
 
 <p align="center">
-  <img src="/images/skills-chart-profile.png" alt="Skills Map"  style="width:60%; height:auto;" />
+  <img src="/images/skills-chart-profile.png" alt="Skills Map"  style="width:25%; height:auto;" />
 </p>
 
 ### 🏭 Industry experience:
