@@ -13,7 +13,7 @@ You can find my PhD dissertation [here](https://lirias.kuleuven.be/retrieve/dff3
 The combination of deep theoretical expertise in AI related fields, paired with 7+ years of programming has made me a strong and curious Data Scientist (assuming we agree on the meaning of this term).
 
 <p align="center">
-  <img src="images/skills-chart-profile.png" alt="Skills Map" />
+  <img src="/images/skills-chart-profile.png" alt="Skills Map" />
 </p>
 
 ### 🏭 Industry experience:
@@ -30,6 +30,11 @@ The combination of deep theoretical expertise in AI related fields, paired with 
 - Another project of my PhD years involves extending [SHAP](https://shap.readthedocs.io/en/latest/) explanatory toolbox to time-to-event data, with a focus on explaining feature importance within a given interval of time. This work is a fast and lean alternative to [SurvSHAP(t)](https://github.com/MI2DataLab/survshap).
 
 - To be released to the public once the related paper is accepted: [EDGEHOG](https://github.com/Klest94/directionality), a tool for **automatic directionality dispersion** estimate, using some old school **Computer vision** approach  
+
+
+## Curriculum vitae
+
+- Download as PDF: [CV-KlestDedja.pdf](/assets/CV-KlestDedja.pdf)
 
 
 ## 🔬 Research
