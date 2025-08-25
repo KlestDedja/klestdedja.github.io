@@ -17,7 +17,7 @@ The combination of deep theoretical expertise in AI related fields, paired with 
 
 ### 🔭 Current Projects:
 
-- I am maintaining a project from my PhD years, namely **[BELLATREX](https://github.com/klest94/bellatrex)**: an open-access [package](https://pypi.org/project/bellatrex/) designed to support adoption and transparency of **Random Forest** models for several prediction tasks: binary classification, regression, survival-analysis, multi-lablel classification, and multi-target regression.
+- I am maintaining a project from my PhD years, namely **[BELLATREX](https://github.com/klest94/bellatrex)**: an open-access [pip package](https://pypi.org/project/bellatrex/) designed to support adoption and transparency of **Random Forest** models for several prediction tasks: binary classification, regression, survival-analysis, multi-lablel classification, and multi-target regression.
 
   Do you like BELLATREX? I am looking for collaborators to make BELLATREX better! If you have fresh ideas, feature requests, or are interested in contributing to new functionalities, I’d love to connect 😊.
    Keep an eye on the repository and don't forget to add a ⭐️
