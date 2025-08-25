@@ -7,18 +7,26 @@
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 </head>
 <body>
-  <header class="site-header">
-    <nav class="nav">
-      {% for item in site.nav %}
-        <a class="nav-link{% if page.url == item.url %} active{% endif %}"
-           href="{{ item.url | relative_url }}">{{ item.title }}</a>
-      {% endfor %}
-    </nav>
-  </header>
+  <div class="layout">
+    <aside class="sidebar">
+      <nav class="nav">
+        {% for item in site.nav %}
+          <a class="nav-link{% if page.url == item.url %} active{% endif %}"
+             href="{{ item.url | relative_url }}">{{ item.title }}</a>
+        {% endfor %}
+      </nav>
 
-  <main class="container">
-    {{ content }}
-  </main>
+      <div class="social">
+        <a class="social-link LinkedIn" href="https://www.linkedin.com/in/klest-dedja/" target="_blank" rel="noopener">LinkedIn</a>
+        <a class="social-link Google Scholar" href="https://scholar.google.com/citations?user=SWJ2Y2cAAAAJ" target="_blank" rel="noopener">Scholar</a>
+        <a class="social-link GitHub" href="https://github.com/klestdedja" target="_blank" rel="noopener">GitHub</a>
+      </div>
+    </aside>
+
+    <main class="content">
+      {{ content }}
+    </main>
+  </div>
 
   <footer class="site-footer">
     <small>© {{ "now" | date: "%Y" }} Klest Dedja</small>
