@@ -10,7 +10,7 @@
   <header class="site-header">
     <nav class="nav">
       {% for item in site.nav %}
-        <a class="nav-link{% if page.url == item.url %} active{% endif %}" 
+        <a class="nav-link{% if page.url == item.url %} active{% endif %}"
            href="{{ item.url | relative_url }}">{{ item.title }}</a>
       {% endfor %}
     </nav>
@@ -21,7 +21,7 @@
   </main>
 
   <footer class="site-footer">
-    <small>© {{ "now" | date: "%Y" }} {{ site.author.name }}</small>
+    <small>© {{ "now" | date: "%Y" }} Klest Dedja</small>
   </footer>
 </body>
 </html>
