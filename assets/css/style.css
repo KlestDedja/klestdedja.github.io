@@ -60,12 +60,16 @@ h1, h2, h3, h4, h5, h6 {
   padding: 0.8rem 1rem;
   border-radius: 10px;
   background: #e9ecef;
-  color: #222;
-  text-decoration: none;
+  color: #222 !important;
+  text-decoration: none !important;
   font-weight: 500;
   margin-bottom: 0.5em;
   transition: background 0.2s, color 0.2s, box-shadow 0.2s;
   box-shadow: 0 2px 8px rgba(0,0,0,0.03);
+}
+.nav-link:visited {
+  color: #222 !important;
+  text-decoration: none !important;
 }
 .nav-link:hover {
   background: #d0d8e0;
@@ -88,10 +92,14 @@ h1, h2, h3, h4, h5, h6 {
   padding: 0.6em 1.2em;
   border-radius: 8px;
   color: #fff !important;
-  text-decoration: none;
+  text-decoration: none !important;
   margin-bottom: 0.5em;
   transition: background 0.2s, box-shadow 0.2s;
   box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+}
+.social-link:visited {
+  color: #fff !important;
+  text-decoration: none !important;
 }
 .social-link.linkedin {
   background: #0077b5;
