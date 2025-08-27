@@ -4,6 +4,6 @@ theme: jekyll-theme-cayman
 url: "https://klestdedja.github.io"
 
 nav:
-  - { title: "about", url: "/" }
-  - { title: "cv", url: "/cv" }
-  - { title: "repositories", url: "/repositories" }
+  - { title: "(back to) homepage", url: "/" }
+  - { title: "my CV", url: "/cv" }
+  - { title: "my repositories", url: "/repositories" }
