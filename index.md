@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "About"
+title: "Klest Dedja"
 ---
 
 # 👋 Hello, visitor!
@@ -29,20 +29,20 @@ The combination of deep theoretical expertise in AI related fields, paired with 
 
 - Another project of my PhD years involves extending [SHAP](https://shap.readthedocs.io/en/latest/) explanatory toolbox to time-to-event data, with a focus on explaining feature importance within a given interval of time. This project is currently being tested and refined, and is available on [GitHub: TimeSHAP](https://github.com/klestdedja/timeSHAP)
 
-- To be released to the public once the related paper is accepted: [EDGEHOG](https://github.com/klestdedja/directionality), a tool for **automatic directionality dispersion** estimate, using some old school **Computer vision** approach  
+- To be released to the public once the related paper is accepted: [EDGEHOG](https://github.com/klestdedja/directionality), a tool for **automatic directionality dispersion** estimate, using some old school **Computer vision** approach
 
 
 <!--
 ## 🔬 Research
-- [Google Scholar](https://scholar.google.com/citations?user=SWJ2Y2cAAAAJ)  
-- [PhD Dissertation](https://lirias.kuleuven.be/retrieve/dff3deaa-efd3-45e2-833c-e6db47d88434)  
+- [Google Scholar](https://scholar.google.com/citations?user=SWJ2Y2cAAAAJ)
+- [PhD Dissertation](https://lirias.kuleuven.be/retrieve/dff3deaa-efd3-45e2-833c-e6db47d88434)
 
 ## ⚙️ Projects
-- [**Bellatrex**](https://github.com/klestdedja/bellatrex) → [pip package](https://pypi.org/project/bellatrex/)  
+- [**Bellatrex**](https://github.com/klestdedja/bellatrex) → [pip package](https://pypi.org/project/bellatrex/)
 - [SHAP extension](https://github.com/klestdedja/timeSHAP) for survival data
-- [**EDGEHOG**](https://github.com/klestdedja/directionality)  
+- [**EDGEHOG**](https://github.com/klestdedja/directionality)
 -->
 
 
 ## 📫 Contact
-- [LinkedIn](https://www.linkedin.com/in/klest-dedja/)  
+- [LinkedIn](https://www.linkedin.com/in/klest-dedja/)
