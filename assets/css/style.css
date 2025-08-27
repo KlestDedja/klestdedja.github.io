@@ -1,3 +1,22 @@
+/* --------- Fonts --------- */
+body {
+  color: #222;
+  font-family: 'Roboto', system-ui, -apple-system, "Segoe UI", Arial, sans-serif;
+  font-size: 16px;
+  font-weight: 400;   /* Roboto regular */
+  line-height: 1.6;
+  background: #fff;
+  margin: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Roboto', system-ui, -apple-system, "Segoe UI", Arial, sans-serif;
+  font-weight: 700;   /* Roboto bold */
+  letter-spacing: -0.01em;
+  margin-top: 1.2em;
+  margin-bottom: 0.5em;
+}
+
 /* Layout */
 .layout {
   display: flex;
@@ -5,18 +24,19 @@
 }
 
 .sidebar {
-  width: 200px;
+  width: 260px;               /* was 200–220px → give buttons room */
   background: #f8f9fa;
-  padding: 1rem;
+  padding: 1.25rem;
   border-right: 1px solid #ddd;
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
+  gap: 1rem;
 }
 
 .content {
   flex: 1;
-  padding: 2rem;
+  padding: 2rem 2.5rem;
+  max-width: 1100px;
 }
 
 /* Nav buttons */
@@ -24,60 +44,15 @@
   display: flex;
   flex-direction: column;
   gap: 1rem;
-  margin-bottom: 2rem;
 }
 
 .nav-link {
   display: block;
   text-align: center;
-  padding: 0.7rem 1rem;
-  border-radius: 6px;
-  font-weight: 600;
-  text-decoration: none;
-  color: #444;
-  border: 2px solid transparent;
-  transition: all 0.2s ease-in-out;
-}
-
-.nav-link:hover {
-  background: #b347ff22;
-  border-color: #b347ff;
-  color: #000;
-}
-
-.nav-link.active {
-  background: #b347ff;
-  color: #fff;
-  border-color: #b347ff;
-}
-
-/* Social links block */
-.social {
-  display: flex;
-  flex-direction: column;
-  gap: 0.7rem;
-  margin-top: auto;
-  padding-top: 2rem;
-  border-top: 1px solid #ddd;
-}
-
-.social-link {
-  display: block;
-  text-align: center;
-  padding: 0.6rem 1rem;
-  border-radius: 6px;
-  text-decoration: none;
-  font-weight: 500;
-  transition: all 0.2s ease-in-out;
-  color: #fff;
-}
-
-/* Brand colors */
-.social-link.linkedin { background: #0a66c2; }
-.social-link.linkedin:hover { background: #004182; }
-
-.social-link.scholar { background: #4285f4; }
-.social-link.scholar:hover { background: #174ea6; }
-
-.social-link.github { background: #24292f; }
-.social-link.github:hover { background: #000; }
+  padding: 0.8rem 1rem;
+  border-radius: 10px;
+  font-family: 'Roboto', system-ui, -apple-system, "Segoe UI", Arial, sans-serif;
+  font-weight: 700;  /* bold Roboto */
+  text-transform: uppercase;
+  letter-spacing: .02em;
+  text-de

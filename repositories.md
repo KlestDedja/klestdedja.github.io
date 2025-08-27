@@ -17,3 +17,10 @@ title: "Repositories"
 
 - [**Directionality (EDGEHOG)**](https://github.com/klestdedja/directionality)  
   Tool for estimating **directionality dispersion** (to be made public after publication).
+
+
+# My PhD Dissertation
+
+*Supporting Adoption of AI in Survival Analysis*, supervised by [Prof. Celine Vens](https://kulak.kuleuven.be/~celine.vens/index.html)  
+
+Full text available here: [📄 Dissertation (PDF)](https://lirias.kuleuven.be/retrieve/dff3deaa-efd3-45e2-833c-e6db47d88434)
