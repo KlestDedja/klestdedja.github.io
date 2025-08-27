@@ -6,4 +6,4 @@ url: "https://klestdedja.github.io"
 nav:
   - { title: "Homepage", url: "/" }
   - { title: "Curriculum Vitae", url: "/cv" }
-  - { title: "Recent repositories", url: "/repositories" }
+  - { title: "Recent projects", url: "/repositories" }

@@ -5,6 +5,23 @@ title: "Klest Dedja's website"
 
 # 👋 Hello, visitor!
 
+<div style="display: flex; align-items: flex-start; gap: 2rem;">
+  <div style="flex: 1;">
+    I am Klest Dedja, data Scientist, mathematician, langauge nerd. My background bridges **Applied Mathematics** and **Machine Learning**. During my PhD at KULeuven, I specialized in **Explainable AI** for **Survival Analysis** tasks (time-to-event in the presence of partial information), with applications in healthcare (Multiple Sclerosis, kidney function, etc.).
+
+    I have explored **Random Forests** extensively, appreciating  their speed and state-of-the-art accuracy on tabular data. By exploiting their structure, I developed [**Bellatrex**](https://github.com/klestdedja/bellatrex), a toolbox designed to generate model insights for Random Forests. Additionally, I have also explored **Active Learning** and its intersection with Survival Analysis.
+
+    You can find my PhD dissertation [here](https://lirias.kuleuven.be/retrieve/dff3deaa-efd3-45e2-833c-e6db47d88434).
+
+    The combination of deep theoretical expertise in AI related fields, paired with 7+ years of programming has made me a strong and curious Data Scientist (assuming we agree on the meaning of this term).
+  </div>
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <img src="/images/profile-2024.jpg" alt="Klest Dedja" style="width:180px; border-radius: 50%; box-shadow: 0 2px 8px rgba(0,0,0,0.08);" />
+    <span style="font-size: 0.95em; color: #888; margin-top: 0.5em; text-align: center;">I hate this picture by the way, I have to get a better one soon</span>
+  </div>
+</div>
+
+<!--
 I am Klest Dedja, data Scientist, mathematician, langauge nerd. My background bridges **Applied Mathematics** and **Machine Learning**. During my PhD at KULeuven, I specialized in **Explainable AI** for **Survival Analysis** tasks (time-to-event in the presence of partial information), with applications in healthcare (Multiple Sclerosis, kidney function, etc.).
 
 I have explored **Random Forests** extensively, leveraging their speed and state-of-the-art accuracy on tabular data. By exploiting their structure, I developed [**Bellatrex**](https://github.com/klestdedja/bellatrex), a toolbox designed to generate model insights for Random Forests. Additionally, I have also explored **Active Learning** and its intersection with Survival Analysis.
@@ -12,6 +29,7 @@ I have explored **Random Forests** extensively, leveraging their speed and state
 You can find my PhD dissertation [here](https://lirias.kuleuven.be/retrieve/dff3deaa-efd3-45e2-833c-e6db47d88434).
 
 The combination of deep theoretical expertise in AI related fields, paired with 7+ years of programming has made me a strong and curious Data Scientist (assuming we agree on the meaning of this term).
+-->
 
 <p align="center">
   <img src="/images/skills-chart-profile.png" alt="Skills Map"  style="width:50%; height:auto;" />
