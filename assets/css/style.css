@@ -32,7 +32,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .sidebar {
-  width: 260px;               
+  width: 260px;
   background: #f8f9fa;
   padding: 1.25rem;
   border-right: 1px solid #ddd;
@@ -59,3 +59,33 @@ h1, h2, h3, h4, h5, h6 {
   text-align: center;
   padding: 0.8rem 1rem;
   border-radius: 10px;
+}
+
+/* Social buttons styling */
+.social-link {
+  display: flex;
+  align-items: center;
+  gap: 0.5em;
+  font-weight: 500;
+  font-size: 1rem;
+  padding: 0.6em 1.2em;
+  border-radius: 8px;
+  color: #fff !important;
+  text-decoration: none;
+  margin-bottom: 0.5em;
+  transition: background 0.2s, box-shadow 0.2s;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+}
+.social-link.linkedin {
+  background: #0077b5;
+}
+.social-link.github {
+  background: #181717;
+}
+.social-link.scholar {
+  background: #4285f4;
+}
+.social-link:hover {
+  filter: brightness(1.1);
+  box-shadow: 0 4px 16px rgba(0,0,0,0.08);
+}
