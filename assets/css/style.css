@@ -17,14 +17,14 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 0.5em;
 }
 
-/* Layout */
+/* --------- Layout --------- */
 .layout {
   display: flex;
   min-height: 100vh;
 }
 
 .sidebar {
-  width: 260px;               /* was 200–220px → give buttons room */
+  width: 260px;               
   background: #f8f9fa;
   padding: 1.25rem;
   border-right: 1px solid #ddd;
@@ -39,7 +39,7 @@ h1, h2, h3, h4, h5, h6 {
   max-width: 1100px;
 }
 
-/* Nav buttons */
+/* --------- Nav buttons --------- */
 .nav {
   display: flex;
   flex-direction: column;
@@ -51,8 +51,3 @@ h1, h2, h3, h4, h5, h6 {
   text-align: center;
   padding: 0.8rem 1rem;
   border-radius: 10px;
-  font-family: 'Roboto', system-ui, -apple-system, "Segoe UI", Arial, sans-serif;
-  font-weight: 700;  /* bold Roboto */
-  text-transform: uppercase;
-  letter-spacing: .02em;
-  text-de
