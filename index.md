@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Klest Dedja"
+title: "Klest Dedja's website"
 ---
 
 # 👋 Hello, visitor!
