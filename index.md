@@ -41,8 +41,7 @@ The combination of deep theoretical expertise in AI related fields, paired with 
 - [**Bellatrex**](https://github.com/klestdedja/bellatrex) → [pip package](https://pypi.org/project/bellatrex/)
 - [SHAP extension](https://github.com/klestdedja/timeSHAP) for survival data
 - [**EDGEHOG**](https://github.com/klestdedja/directionality)
--->
-
 
 ## 📫 Contact
 - [LinkedIn](https://www.linkedin.com/in/klest-dedja/)
+-->

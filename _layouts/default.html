@@ -28,7 +28,7 @@
       <!-- Main navigation -->
       <nav class="nav">
         {% for item in site.nav %}
-          <a class="nav-link{% if page.url == item.url %} active{% endif %}"
+          <a class="nav-link{% if forloop.first %} homepage{% endif %}{% if page.url == item.url %} active{% endif %}"
              href="{{ item.url | relative_url }}">
             {{ item.title }}
           </a>

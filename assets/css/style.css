@@ -1,3 +1,8 @@
+.nav-link.homepage,
+.nav-link.homepage.active {
+  background: rgb(209, 210, 211) !important;
+  color: #222 !important;
+}
 /* --------- Fonts --------- */
 body {
   color: #222;
