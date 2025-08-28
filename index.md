@@ -16,8 +16,8 @@ title: "Klest Dedja's website"
     The combination of deep theoretical expertise in AI related fields, paired with 7+ years of programming has made me a strong and curious Data Scientist (assuming we agree on the meaning of this term).
   </div>
   <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="/images/profile-2024.jpg" alt="Klest Dedja" style="width:180px; border-radius: 50%; box-shadow: 0 2px 8px rgba(0,0,0,0.08);" />
-    <span style="font-size: 0.95em; color: #888; margin-top: 0.5em; text-align: center;">I hate this picture by the way, I have to get a better one soon</span>
+    <img src="/images/profile-2024.jpg" alt="Klest Dedja" style="width:180px; box-shadow: 0 2px 8px rgba(0,0,0,0.08);" />
+    <!-- <span style="font-size: 0.95em; color: #888; margin-top: 0.5em; text-align: center;">I hate this picture by the way, I have to get a better one soon</span> -->
   </div>
 </div>
 
