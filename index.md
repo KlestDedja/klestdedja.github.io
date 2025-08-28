@@ -9,11 +9,9 @@ title: "Klest Dedja's website"
   <div style="flex: 1;">
     I am Klest Dedja, data Scientist, mathematician, langauge nerd. My background bridges <strong>Applied Mathematics</strong> and <strong>Machine Learning</strong> During my PhD at KULeuven, I specialized in <strong>Explainable AI</strong> for <strong>Survival Analysis</strong> tasks (time-to-event in the presence of partial information), with applications in healthcare (Multiple Sclerosis, kidney function, etc.).
 
-    I have explored <strong>Random Forests</strong> extensively, appreciating  their speed and state-of-the-art accuracy on tabular data. By exploiting their structure, I developed <a href="https://github.com/klestdedja/bellatrex"><strong>Bellatrex</strong></a>, a toolbox designed to generate model insights for Random Forests. Additionally, I have also explored <strong>Active Learning</strong> and its intersection with Survival Analysis.
+  I have explored <strong>Random Forests</strong> extensively, appreciating  their speed and state-of-the-art accuracy on tabular data. By exploiting their structure, I developed <a href="https://github.com/klestdedja/bellatrex"><strong>Bellatrex</strong></a>, a toolbox designed to generate model insights for Random Forests. Additionally, I have also explored <strong>Active Learning</strong> and its intersection with Survival Analysis.<br>
 
-  You can find my PhD dissertation <a href="https://lirias.kuleuven.be/retrieve/dff3deaa-efd3-45e2-833c-e6db47d88434">here</a>.
-
-    The combination of deep theoretical expertise in AI related fields, paired with 7+ years of programming has made me a strong and curious Data Scientist (assuming we agree on the meaning of this term).
+  The combination of deep theoretical expertise in AI related fields, paired with 7+ years of programming has made me a strong and curious Data Scientist (assuming we agree on the meaning of this term).
   </div>
   <div style="display: flex; flex-direction: column; align-items: center;">
   <img src="/images/profile-2024.jpg" alt="Klest Dedja" style="width:220px; box-shadow: 0 2px 8px rgba(0,0,0,0.08);" />
