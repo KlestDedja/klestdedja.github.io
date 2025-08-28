@@ -30,7 +30,7 @@ The combination of deep theoretical expertise in AI related fields, paired with 
 -->
 
 <p align="center">
-  <img src="/images/skills-chart-profile.png" alt="Skills Map"  style="width:50%; height:auto;" />
+  <img src="/images/skills-chart-profile.png" alt="Skills Map"  style="width:45%; height:auto;" />
 </p>
 
 ### 🏭 Industry experience:
