@@ -11,7 +11,7 @@ title: "Klest Dedja's website"
 
   I have explored <strong>Random Forests</strong> extensively, appreciating  their speed and state-of-the-art accuracy on tabular data. By exploiting their structure, I developed <a href="https://github.com/klestdedja/bellatrex"><strong>Bellatrex</strong></a>, a toolbox designed to generate model insights for Random Forests. Additionally, I have also explored <strong>Active Learning</strong> and its intersection with Survival Analysis.<br>
 
-    <p style="margin-top: 1.2em;">
+    <p style="margin-top: 1.0em;">
       The combination of a strong mathematical mindset, expertise in AI, and 7+ years of programming experience, make me a skilled and curious Data Scientist.
     </p>
   </div>
