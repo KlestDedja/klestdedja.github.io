@@ -7,7 +7,7 @@ title: "Klest Dedja's website"
 
 <div style="display: flex; align-items: flex-start; gap: 2.5rem;">
   <div style="flex: 1;">
-    I am Klest Dedja, data Scientist, mathematician, langauge nerd. My background bridges Applied Mathematics and <strong>Machine Learning</strong> During my PhD at KULeuven, I specialized in <strong>Explainable AI</strong> for <strong>Survival Analysis</strong> tasks (time-to-event in the presence of partial information), with applications in healthcare (Multiple Sclerosis, kidney function, etc.).
+    My name is Klest Dedja, I am a data Scientist, a mathematician, and a language learning nerd. My background bridges Applied Mathematics and <strong>Machine Learning</strong> During my PhD at KULeuven, I specialized in <strong>Explainable AI</strong> for <strong>Survival Analysis</strong> tasks (time-to-event in the presence of partial information), with applications in healthcare (Multiple Sclerosis, kidney function, etc.).
 
   I have explored <strong>Random Forests</strong> extensively, appreciating  their speed and state-of-the-art accuracy on tabular data. By exploiting their structure, I developed <a href="https://github.com/klestdedja/bellatrex"><strong>Bellatrex</strong></a>, a toolbox designed to generate model insights for Random Forests. Additionally, I have also explored <strong>Active Learning</strong> and its intersection with Survival Analysis.<br>
 
