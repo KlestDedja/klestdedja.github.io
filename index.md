@@ -46,9 +46,9 @@ The combination of deep theoretical expertise in AI related fields, paired with 
   Do you like BELLATREX? I am looking for collaborators to keep improving the project and related library! If you have fresh ideas, feature requests, or are interested in contributing to new functionalities, I’d love to connect 😊.
    Keep an eye on the repository and don't forget to add a ⭐️
 
-- Another project of my PhD years involves extending [SHAP](https://shap.readthedocs.io/en/latest/) explanatory toolbox to time-to-event data, with a focus on explaining feature importance within a given interval of time. This project is currently being tested and refined, and is available on [GitHub: TimeSHAP](https://github.com/klestdedja/timeSHAP)
+- Another project involves extending [SHAP](https://shap.readthedocs.io/en/latest/) explanatory toolbox to time-to-event data, with a focus on explaining feature importance within a given interval of time. This project is currently under development, and is available on [GitHub: IntervalSHAP](https://github.com/klestdedja/intervalSHAP)
 
-- To be released to the public once the related paper is accepted: [EDGEHOG](https://github.com/klestdedja/directionality), a tool for **automatic directionality dispersion** estimate, using a classical **Computer vision** approach.
+- Finally, also under development, you can test [EDGEHOG](https://github.com/klestdedja/directionality), a tool for **automatic directionality dispersion** estimate, using a classical **Computer vision** approach.
 
 
 <!--
@@ -58,8 +58,8 @@ The combination of deep theoretical expertise in AI related fields, paired with 
 
 ## ⚙️ Projects
 - [**Bellatrex**](https://github.com/klestdedja/bellatrex) → [pip package](https://pypi.org/project/bellatrex/)
-- [SHAP extension](https://github.com/klestdedja/timeSHAP) for survival data
-- [**EDGEHOG**](https://github.com/klestdedja/directionality)
+- [SHAP extension](https://github.com/klestdedja/intervalSHAP) for survival data
+- [**EDGEHOG**](https://github.com/klestdedja/directionality) for automatic directionality estimate
 
 ## 📫 Contact
 - [LinkedIn](https://www.linkedin.com/in/klest-dedja/)
