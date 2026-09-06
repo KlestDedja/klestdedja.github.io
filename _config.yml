@@ -1,9 +1,9 @@
 title: "Klest Dedja"
-description: "AI Research Scientist | Explainable AI | Forecasting | DevOPS in progress"
+description: "Applied AI and Machine Learning Engineer | Enterprise AI | Forecasting | Explainable ML"
 theme: jekyll-theme-cayman
 url: "https://klestdedja.github.io"
 
 nav:
-  - { title: "Homepage", url: "/" }
-  - { title: "Curriculum Vitae", url: "/cv" }
-  - { title: "Recent projects", url: "/repositories" }
+  - { title: "Home", url: "/" }
+  - { title: "Public CV", url: "/cv" }
+  - { title: "Selected work", url: "/repositories" }

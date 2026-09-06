@@ -1,66 +1,71 @@
 ---
 layout: default
-title: "Klest Dedja's website"
+title: "Klest Dedja | Applied AI and Machine Learning Engineer"
+description: "Applied AI and machine learning engineer working across enterprise AI, forecasting, explainable machine learning and research software."
 ---
 
-# 👋 Hello, visitor!
-
-<div style="display: flex; align-items: flex-start; gap: 2.5rem;">
-  <div style="flex: 1;">
-    My name is Klest Dedja, I am a data Scientist, a mathematician, and a language learning nerd. My background bridges Applied Mathematics and <strong>Machine Learning</strong> During my PhD at KULeuven, I specialized in <strong>Explainable AI</strong> for <strong>Survival Analysis</strong> tasks (time-to-event in the presence of partial information), with applications in healthcare (Multiple Sclerosis, kidney function, etc.).
-
-  I have explored <strong>Random Forests</strong> extensively, appreciating  their speed and state-of-the-art accuracy on tabular data. By exploiting their structure, I developed <a href="https://github.com/klestdedja/bellatrex"><strong>Bellatrex</strong></a>, a toolbox designed to generate model insights for Random Forests. Additionally, I have also explored <strong>Active Learning</strong> and its intersection with Survival Analysis.<br>
-
-    <p style="margin-top: 1.0em;">
-      The combination of a strong mathematical mindset, expertise in AI, and 7+ years of programming experience, make me a skilled and curious Data Scientist.
-    </p>
+<section class="hero">
+  <div class="hero-copy">
+    <p class="eyebrow">Applied AI and Machine Learning Engineer</p>
+    <h1>Reliable AI, from research questions to working systems.</h1>
+    <p class="lead">I build and evaluate AI applications, forecasting methods and explainable machine-learning tools. My background in applied mathematics and research helps me turn ambiguous problems into tested, maintainable software.</p>
+    <div class="hero-actions">
+      <a class="button primary" href="/repositories">View selected work</a>
+      <a class="button secondary" href="/cv">View public CV</a>
+    </div>
   </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-  <img src="/images/profile-2024.jpg" alt="Klest Dedja" style="width:220px; box-shadow: 0 2px 8px rgba(0,0,0,0.08);" />
-    <!-- <span style="font-size: 0.95em; color: #888; margin-top: 0.5em; text-align: center;">I hate this picture by the way, I have to get a better one soon</span> -->
-  </div>
+  <img class="profile-photo" src="/images/profile-2024.jpg" alt="Portrait of Klest Dedja" />
+</section>
+
+<section class="proof-grid" aria-label="Professional highlights">
+  <article class="proof-card">
+    <span class="card-label">Current work</span>
+    <h2>Enterprise AI</h2>
+    <p>RAG applications, prompt behaviour, automated LLM evaluation and front-end delivery at CGI SmartLab.</p>
+  </article>
+  <article class="proof-card">
+    <span class="card-label">Industry R&amp;D</span>
+    <h2>Forecasting</h2>
+    <p>Time-series modelling, validation and uncertainty estimation for finance use cases at Predikt.ai.</p>
+  </article>
+  <article class="proof-card">
+    <span class="card-label">Open source</span>
+    <h2>Explainable ML</h2>
+    <p>Bellatrex turns Random Forest predictions into concise rule-based explanations across several prediction tasks.</p>
+  </article>
+</section>
+
+## Current work
+
+I am a **Data Scientist at [CGI SmartLab](https://www.cgi.com/nl/nl/smartlab)**. I contribute across an enterprise AI application, from retrieval and system-prompt behaviour to automated evaluation of LLM alignment and React front-end features. The work calls for both technical breadth and the ability to translate open-ended stakeholder needs into testable improvements.
+
+Previously, as an **AI Research Engineer at [Predikt.ai](https://predikt.ai/)**, I translated forecasting problems into technical specifications and structured experiments. I developed and benchmarked forecasting approaches, improved model accuracy by 7% through regularisation, and worked with conformal prediction methods to estimate uncertainty.
+
+## Selected work
+
+<div class="project-grid">
+  <article class="project-card">
+    <h3><a href="https://github.com/klestdedja/bellatrex">Bellatrex</a></h3>
+    <p>An explainable-AI method and maintained Python package for extracting representative rules from Random Forest ensembles. The research was evaluated across 89 datasets and published in IEEE Access.</p>
+  </article>
+  <article class="project-card">
+    <h3><a href="https://github.com/klestdedja/intervalSHAP">IntervalSHAP</a></h3>
+    <p>A compact approach to feature attribution for time-to-event predictions, focused on explanations over selected time intervals.</p>
+  </article>
+  <article class="project-card">
+    <h3><a href="https://github.com/klestdedja/directionality">EDGEHOG</a></h3>
+    <p>A computer-vision workflow for reproducible, high-throughput measurement of fibre directionality and dispersion in biomedical images.</p>
+  </article>
 </div>
 
-<!--
-I am Klest Dedja, data Scientist, mathematician, langauge nerd. My background bridges **Applied Mathematics** and **Machine Learning**. During my PhD at KULeuven, I specialized in **Explainable AI** for **Survival Analysis** tasks (time-to-event in the presence of partial information), with applications in healthcare (Multiple Sclerosis, kidney function, etc.).
+<p><a class="text-link" href="/repositories">See the full selected-work page →</a></p>
 
-I have explored **Random Forests** extensively, leveraging their speed and state-of-the-art accuracy on tabular data. By exploiting their structure, I developed [**Bellatrex**](https://github.com/klestdedja/bellatrex), a toolbox designed to generate model insights for Random Forests. Additionally, I have also explored **Active Learning** and its intersection with Survival Analysis.
+## Background
 
-You can find my PhD dissertation [here](https://lirias.kuleuven.be/retrieve/dff3deaa-efd3-45e2-833c-e6db47d88434).
+I hold a PhD from KU Leuven, where I developed explainable-AI and active-learning methods for survival analysis and collaborated with clinical and scientific teams. That research remains useful evidence of how I design experiments, validate models and communicate across disciplines, but my professional direction is applied AI and product-oriented R&amp;D outside academia.
 
-The combination of deep theoretical expertise in AI related fields, paired with 7+ years of programming has made me a strong and curious Data Scientist (assuming we agree on the meaning of this term).
--->
+My [Google Scholar profile](https://scholar.google.com/citations?user=SWJ2Y2cAAAAJ) and [dissertation](https://lirias.kuleuven.be/retrieve/dff3deaa-efd3-45e2-833c-e6db47d88434) contain the full research record.
 
-<p align="center">
-  <img src="/images/skills-chart-profile.png" alt="Skills Map"  style="width:45%; height:auto;" />
-</p>
+## Beyond the job title
 
-### 🏭 Industry experience:
-
-- I have worked at **[Predikt](https://predikt.ai/)**, a young, innovative start-up dedicated to advancing **time-series forecasting** for CFOs and finance leaders. Predikt is developing AI-driven tools that bring confidence and trust to forecasting processes, helping CFOs and finance leaders make more informed, data-backed decisions.
-
-### 🔭 Current Projects:
-
-- I am maintaining a project from my PhD years, namely **[BELLATREX](https://github.com/klestdedja/bellatrex)**: an open-access [pip package](https://pypi.org/project/bellatrex/) designed to support adoption and transparency of **Random Forest** models for several prediction tasks: binary classification, regression, survival-analysis, multi-lablel classification, and multi-target regression.
-
-  Do you like BELLATREX? I am looking for collaborators to keep improving the project and related library! If you have fresh ideas, feature requests, or are interested in contributing to new functionalities, I’d love to connect 😊.
-   Keep an eye on the repository and don't forget to add a ⭐️
-
-- Another project involves extending [SHAP](https://shap.readthedocs.io/en/latest/) explanatory toolbox to time-to-event data, with a focus on explaining feature importance within a given interval of time. This project is currently under development, and is available on [GitHub: IntervalSHAP](https://github.com/klestdedja/intervalSHAP)
-
-- Finally, also under development, you can test [EDGEHOG](https://github.com/klestdedja/directionality), a tool for **automatic directionality dispersion** estimate, using a classical **Computer vision** approach.
-
-
-<!--
-## 🔬 Research
-- [Google Scholar](https://scholar.google.com/citations?user=SWJ2Y2cAAAAJ)
-- [PhD Dissertation](https://lirias.kuleuven.be/retrieve/dff3deaa-efd3-45e2-833c-e6db47d88434)
-
-## ⚙️ Projects
-- [**Bellatrex**](https://github.com/klestdedja/bellatrex) → [pip package](https://pypi.org/project/bellatrex/)
-- [SHAP extension](https://github.com/klestdedja/intervalSHAP) for survival data
-- [**EDGEHOG**](https://github.com/klestdedja/directionality) for automatic directionality estimate
-
-## 📫 Contact
-- [LinkedIn](https://www.linkedin.com/in/klest-dedja/)
--->
+I am a mathematician by training, a multilingual European, and an enthusiastic language learner. I enjoy mentoring, collaborating across technical and domain boundaries, and making complex ideas easier to use.
