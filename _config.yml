@@ -5,7 +5,7 @@ url: "https://klestdedja.github.io"
 
 nav:
   - { title: "Home", url: "/" }
-  - { title: "Public CV", url: "/cv" }
+  - { title: "Curriculum Vitae", url: "/cv" }
   - { title: "Selected work", url: "/repositories" }
 
 exclude:

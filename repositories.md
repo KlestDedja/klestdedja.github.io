@@ -34,7 +34,7 @@ These projects show how I move between method development, evaluation and usable
 
 ## Applied industry work
 
-At **CGI SmartLab**, I work on an enterprise RAG application and contribute to prompt behaviour, retrieval, automated LLM evaluation and front-end functionality. At **Predikt.ai**, I worked on time-series forecasting, model validation and uncertainty estimation for finance use cases. These projects are described at a non-confidential level on the [homepage](/) and in my [public CV](/cv).
+At **CGI SmartLab**, I work on an enterprise RAG application and contribute to prompt behaviour, retrieval, automated LLM evaluation and front-end functionality. At **Predikt.ai**, I worked on time-series forecasting, model validation and uncertainty estimation for finance use cases. These projects are described at a non-confidential level on the [homepage](/) and in my [CV](/cv).
 
 ## Research record
 

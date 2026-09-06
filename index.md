@@ -8,10 +8,10 @@ description: "Applied AI and machine learning engineer working across enterprise
   <div class="hero-copy">
     <p class="eyebrow">Applied AI and Machine Learning Engineer</p>
     <h1>Reliable AI, from research questions to working systems.</h1>
-    <p class="lead">I build and evaluate AI applications, forecasting methods and explainable machine-learning tools. My background in applied mathematics and research helps me turn ambiguous problems into tested, maintainable software.</p>
+    <p class="lead">End-to-end AI applications, forecasting and uncertainty, explainable machine-learning</p>
     <div class="hero-actions">
       <a class="button primary" href="/repositories">View selected work</a>
-      <a class="button secondary" href="/cv">View public CV</a>
+      <a class="button secondary" href="/cv">View my CV</a>
     </div>
   </div>
   <img class="profile-photo" src="/images/profile-2024.jpg" alt="Portrait of Klest Dedja" />
@@ -21,17 +21,17 @@ description: "Applied AI and machine learning engineer working across enterprise
   <article class="proof-card">
     <span class="card-label">Current work</span>
     <h2>Enterprise AI</h2>
-    <p>RAG applications, prompt behaviour, automated LLM evaluation and front-end delivery at CGI SmartLab.</p>
+    <p>RAG applications, prompt engineering, automated LLM evaluation and front-end delivery at CGI SmartLab.</p>
   </article>
   <article class="proof-card">
     <span class="card-label">Industry R&amp;D</span>
     <h2>Forecasting</h2>
-    <p>Time-series modelling, validation and uncertainty estimation for finance use cases at Predikt.ai.</p>
+    <p>Time-series modelling, validation and uncertainty estimation with conformal predictions at Predikt.ai.</p>
   </article>
   <article class="proof-card">
     <span class="card-label">Open source</span>
     <h2>Explainable ML</h2>
-    <p>Bellatrex turns Random Forest predictions into concise rule-based explanations across several prediction tasks.</p>
+    <p>Extended explainability toolboxes to time-to-event data with partial information (censoring), and created novel explainability toolbox for Random Forest predictions (Bellatrex).</p>
   </article>
 </section>
 
@@ -39,7 +39,7 @@ description: "Applied AI and machine learning engineer working across enterprise
 
 I am a **Data Scientist at [CGI SmartLab](https://www.cgi.com/nl/nl/smartlab)**. I contribute across an enterprise AI application, from retrieval and system-prompt behaviour to automated evaluation of LLM alignment and React front-end features. The work calls for both technical breadth and the ability to translate open-ended stakeholder needs into testable improvements.
 
-Previously, as an **AI Research Engineer at [Predikt.ai](https://predikt.ai/)**, I translated forecasting problems into technical specifications and structured experiments. I developed and benchmarked forecasting approaches, improved model accuracy by 7% through regularisation, and worked with conformal prediction methods to estimate uncertainty.
+Previously, as an **AI Research Engineer at [Predikt.ai](https://predikt.ai/)**, I translated forecasting problems into technical specifications and structured experiments. I developed and benchmarked forecasting approaches, improved model accuracy through regularisation, and worked with conformal prediction methods to estimate uncertainty.
 
 ## Selected work
 
