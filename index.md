@@ -1,14 +1,14 @@
 ---
 layout: default
-title: "Klest Dedja | Applied AI and Machine Learning Engineer"
-description: "Applied AI and machine learning engineer working across enterprise AI, forecasting, explainable machine learning and research software."
+title: "Klest Dedja | Data Scientist · Applied AI & Research"
+description: "Data scientist with a background in mathematics and AI research, with experience in explainable AI applied to medical data, forecasting and enterprise AI applications."
 ---
 
 <section class="hero">
   <div class="hero-copy">
-    <p class="eyebrow">Applied AI and Machine Learning Engineer</p>
-    <h1>Reliable AI, from research questions to working systems.</h1>
-    <p class="lead">End-to-end AI applications, forecasting and uncertainty, explainable machine-learning</p>
+    <p class="eyebrow">Klest Dedja</p>
+    <h1>Data Scientist with a background in mathematics and AI research.</h1>
+    <p class="lead">I develop machine learning methods and AI applications, with experience in explainable AI applied to medical data, forecasting and enterprise software.</p>
     <div class="hero-actions">
       <a class="button primary" href="/repositories">View selected work</a>
       <a class="button secondary" href="/cv">View my CV</a>
