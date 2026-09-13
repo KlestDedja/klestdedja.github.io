@@ -7,8 +7,8 @@ description: "Data scientist with a background in mathematics and AI research, w
 <section class="hero">
   <div class="hero-copy">
     <p class="eyebrow">Klest Dedja</p>
-    <h1>Data Scienctist and AI research.</h1>
-    <p class="lead">Interpretable Machine Learning, data science on medical data, time-series forecasting, enterprise software and AI applications.</p>
+    <h1>Data Scientist, AI researcher, developer</h1>
+    <p class="lead">Interpretable Machine Learning, time-series forecasting, enterprise software and AI applications.</p>
     <div class="hero-actions">
       <a class="button primary" href="/repositories">View selected work</a>
       <a class="button secondary" href="/cv">View my CV</a>
